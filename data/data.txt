@@ -1,0 +1,1 @@
+data should be located here, in separate directories for train and test. the data should be in nii format. 
